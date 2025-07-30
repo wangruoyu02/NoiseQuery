@@ -6,11 +6,12 @@
 
 <h4 align="center">
 
-[Ruoyu Wang<sup>1</sup>](https://scholar.google.com/citations?user=FAoOk1wAAAAJ&hl=zh-CN), [Huayang Huang<sup>1</sup>]([https://wgsxm.github.io](https://scholar.google.com/citations?user=tSi70XkAAAAJ&hl=zh-CN)), [Ye Zhu<sup>2</sup>](https://l-yezhu.github.io/), [Olga Russakovsky<sup>2</sup>](https://www.cs.princeton.edu/~olgarus/), [Yu Wu <sup>1†</sup>](https://yu-wu.net/)
+[Ruoyu Wang<sup>1</sup>](https://scholar.google.com/citations?user=FAoOk1wAAAAJ&hl=zh-CN), [Huayang Huang<sup>1</sup>](https://scholar.google.com/citations?user=tSi70XkAAAAJ&hl=zh-CN), [Ye Zhu<sup>2</sup>](https://l-yezhu.github.io/), [Olga Russakovsky<sup>2</sup>](https://www.cs.princeton.edu/~olgarus/), [Yu Wu <sup>1†</sup>](https://yu-wu.net/)
 
 <sup>1</sup>Wuhan University, <sup>2</sup>Princeton University
 
- ![arXiv](https://img.shields.io/badge/arXiv-2507.10065-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.05101)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.10065-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.05101)
+
 
 
  ## 🎬 Overview
