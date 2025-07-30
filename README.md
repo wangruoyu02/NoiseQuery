@@ -30,7 +30,7 @@
  
 - We reveal the generic generative tendencies within the initial noise and leverage this implicit guidance as a universal generative asset that can be seamlessly integrated with existing T2I models and enhancement methods.
 - We introduce **NoiseQuery**, a novel method that retrieves an optimal initial noise from a pre-built large-scale noise library, fulfilling versatile user-specified requirements encompassing both semantic and low-level visual attributes—a relatively under-explored area.
-- 
+  
 ## 🔥 News
 
 - **2025-07-30** This repo is initialized.
