@@ -11,6 +11,20 @@
 <sup>1</sup>Wuhan University, <sup>2</sup>Princeton University
 
 [![arXiv](https://img.shields.io/badge/arXiv-2507.10065-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.05101)
+[![Project Page]()]()
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2412.05101">
+    <img src="https://img.shields.io/badge/Paper-arXiv%3A2412.05101-B31B1B?logo=arxiv" alt="Paper">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Dataset-HuggingFace-orange?logo=huggingface" alt="Library">
+  </a>
+  <a href="https://github.com/wangruoyu02/NoiseQuery">
+    <img src="https://img.shields.io/badge/Project&nbsp;Page-Website-lightgrey?logo=googlechrome" alt="Project Page">
+  </a>
+</p>
+
 
 
 
