@@ -10,8 +10,6 @@
 
 <sup>1</sup>Wuhan University, <sup>2</sup>Princeton University
 
-[![arXiv](https://img.shields.io/badge/arXiv-2507.10065-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.05101)
-[![Project Page]()]()
 
 <p align="center">
   <a href="https://arxiv.org/abs/2412.05101">
